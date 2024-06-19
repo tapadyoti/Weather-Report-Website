@@ -18,7 +18,7 @@ Welcome to the Weather Report Website! This project leverages HTML, Bootstrap, a
 
 ## How to Use:
 
--  You can safely access it by opening the link in an incognito tab on Chrome or a similar private browsing mode in other browsers. https://tapadyoti.github.io/Weather-Report-Website/
+-  You can safely access it by opening the link  https://terratempest.netlify.app/
 - Enter your location or search for a specific city.
 - Explore the detailed weather report presented on the interface.
 
